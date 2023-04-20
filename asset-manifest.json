@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/putatoe/static/css/main.fbee1964.css",
+    "main.js": "/putatoe/static/js/main.da95ef69.js",
+    "static/js/787.ae6770d9.chunk.js": "/putatoe/static/js/787.ae6770d9.chunk.js",
+    "static/media/s3.jpeg": "/putatoe/static/media/s3.dc17c223da7d645425a7.jpeg",
+    "static/media/s4.jpeg": "/putatoe/static/media/s4.7fcad4142566eb921ddb.jpeg",
+    "static/media/s2.jpeg": "/putatoe/static/media/s2.982e522f16e70042b2bb.jpeg",
+    "static/media/s1.jpeg": "/putatoe/static/media/s1.66ef7166ddfc068a64dc.jpeg",
+    "static/media/logo.png": "/putatoe/static/media/logo.aa9da4f6375a03f8abbe.png",
+    "index.html": "/putatoe/index.html",
+    "main.fbee1964.css.map": "/putatoe/static/css/main.fbee1964.css.map",
+    "main.da95ef69.js.map": "/putatoe/static/js/main.da95ef69.js.map",
+    "787.ae6770d9.chunk.js.map": "/putatoe/static/js/787.ae6770d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbee1964.css",
+    "static/js/main.da95ef69.js"
+  ]
+}

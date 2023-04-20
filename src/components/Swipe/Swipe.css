@@ -1,0 +1,21 @@
+.swiper{
+    padding: 1rem;
+}
+.SwiperSlide{
+padding: 0 1rem;
+width: 80%;
+margin: 0 auto;
+}
+.SwiperSlide_img{
+    width: 80%;
+    height: 20rem;
+}
+@media screen and (max-width: 600px){
+    .SwiperSlide_img{
+        width: 100%;
+        height: auto;
+    }
+    .SwiperSlide{
+        padding: 0 0rem;}
+      
+}
